@@ -20,7 +20,7 @@ This repository contains the implementation of a Multilayer Perceptron (MLP) or 
 
 ## Introduction
 
-The Multilayer Perceptron (MLP) is a type of artificial neural network that consists of multiple layers of neurons, each layer fully connected to the next. This project is an implementation of an MLP from scratch without the use of high-level machine learning libraries.
+The Multilayer Perceptron (MLP) is a type of artificial neural network that consists of multiple layers of neurons, each layer fully connected to the next. This project is an implementation of an MLP from scratch without the use of high-level machine learning libraries. It features optimization algorithms such as Adam, Nesterov momentum, L2 regularization, Xavier and He weights inializer etc.
 
 The MLP is trained to classify whether a breast cancer tumor is malignant or benign based on features extracted from cell images.
 
